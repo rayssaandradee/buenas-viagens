@@ -1,7 +1,7 @@
 
 # Buenas Viagens
 
-Projeto de site para uma agência de viagens desenvolvido com HTML5 e CSS3.
+Projeto Acadêmico de site para uma agência de viagens desenvolvido com HTML5 e CSS3.
 
 ## Funcionalidades
 
@@ -17,6 +17,10 @@ Projeto de site para uma agência de viagens desenvolvido com HTML5 e CSS3.
 - CSS3
 - Font Awesome
 
-## Autor
+## Aluna
 
 Rayssa Teixeira Andrade Lima
+
+## Link do Projeto no Figma
+
+https://www.figma.com/design/77vDQgw756Sr2d5bykK8ai/Untitled?node-id=0-1&t=i3lRBEDaRyNSAmBL-1
